@@ -1,0 +1,189 @@
+h5 {
+	padding-top: 20px;
+	margin-left: 15;
+}
+
+.sidebar{
+	padding-top: 70px;
+	/*padding-left: 15px;*/
+	/*display: inline-block;*/
+	float: left;
+	/*z-index: -1;*/
+	/*position: fixed;*/
+	/*box-shadow: 0 2px 5px rgba(0,0,0,.1);*/
+	
+	width: 20%;
+	width: 250px;
+	height: 100%;
+	border-radius: 0;
+	/*box-shadow: 0 0 5px rgba(0,0,0,.1);*/
+	/*top: 0;*/
+}
+
+
+.navbar{
+	background-color:#EDEDED;
+	top:0;
+	display: block;
+	position: fixed;
+	width: 100%;
+	border-radius: 0;
+	margin: 0;
+	/*box-shadow: 0 2px 5px rgba(0,0,0,.1);*/
+}
+
+/*.dataTables_filter {
+	float: left;
+	text-align: left;
+}*/
+
+.cr{
+	float: right;
+}
+
+.btn{
+	overflow: hidden;
+	padding-left: 25px;
+	background-color:#E8E8E8;
+	text-align: left;
+	height: 50px;
+	border: 0;
+	border-radius: 0;
+	/*box-shadow: 0 2px 5px rgba(0,0,0,.1);*/
+	margin-bottom: 10px;
+}
+
+.btn:hover{
+	background-color: #ADCEF3;
+}
+
+th{
+	background-color: #EEEEEE
+}
+
+/*tbody{
+	height: 100%;
+	overflow: scroll;
+}*/
+
+/*#overviewtab_wrapper{
+	float: right;
+	/*padding: 80px 25px 0 25px;*/
+	/*width: 80%;*/
+	/*position: absolute;*/
+	/*height: 100px;*/
+	/*top: 90px;*/
+	/*bottom: 0px;*/
+	/*margin-bottom: 100px;*/
+	/*height: 500px;*/
+	/*overflow: scroll;*/
+/*
+}*/
+
+.dataTables_wrapper{
+	position: absolute;
+	/*float: right;*/
+	width: 80%;
+	/*height: 100%!important;*/
+	/*padding-top: 80px;*/
+	top:80px;
+	left: 20%;
+	bottom: 130px;
+	padding-left: 5%;
+	padding-right: 5%;
+}
+
+label{
+	margin-bottom: 15px;
+}
+
+.material-icons{
+	color: grey;
+}
+
+.dataTable.table.no-footer{
+	/*box-shadow: 0 5px 15px rgba(0,0,0,.3);*/
+	/*border-top-left-radius: 10px;*/
+
+	/*border-radius: 5px; */
+	/*border: 1px solid lightgrey;*/
+	/*margin-bottom: 100px;*/
+	/*height: 500px;*/
+}
+
+.daypart{
+	color: #A1A1A1;
+	background-color: #F6F6F6;
+ }
+
+.c-0{
+	background-color: #7FF67E
+}
+
+.c-1{
+	background-color: #8BF57A
+}
+
+.c-2{
+	background-color: #98F577
+}
+
+.c-3{
+	background-color: #A6F474
+}
+
+.c-4{
+	background-color: #B5F471
+}
+
+.c-5{
+	background-color: #C4F36E
+}
+
+.c-6{
+	background-color: #D4F36B
+}
+
+.c-7{
+	background-color: #E4F268
+}
+
+.c-8{
+	background-color: #F2EE65
+}
+
+.c-9{
+	background-color: #F2DC62
+}
+
+.c-10{
+	background-color: #F1C85F
+}
+
+.c-11{
+	background-color: #F1B45C
+}
+
+.c-12{
+	background-color: #F08A56
+}
+
+.c-13{
+	background-color: #F08A56
+}
+
+.c-14{
+	background-color: #EF7453
+}
+
+.c-15{
+	background-color: #EF5E50
+}
+
+.c-16{
+	background-color: #EF4D54
+}
+
+.hover{
+	filter: brightness(85%);
+}

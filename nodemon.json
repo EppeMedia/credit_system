@@ -1,0 +1,8 @@
+{
+  "verbose": true,
+  "ignore": ["client-out", ".git", ".gitignore", "README.md"],
+  "events": {
+    "restart": "babel client-src --out-dir client-out --copy-files"
+  },
+  "ext": "js jsx html css json"
+}
